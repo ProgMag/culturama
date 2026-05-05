@@ -28,6 +28,13 @@ h1 {
     font-family: "Fjalla One", sans-serif;
 }
 
+.texto-centralizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 form {
     background-color: #ffffff;
     padding: 15px;
